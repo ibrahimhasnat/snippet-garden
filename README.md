@@ -54,7 +54,7 @@ Follow these steps to get started with Snippet Garden:
 - **GET /api/snippets/:language:** Get snippets filtered by programming language.
 
 ### Create a New Snippet
-```json
+```
 POST /api/snippets
 Content-Type: application/json
 Authorization: YOUR_AUTH_TOKEN
